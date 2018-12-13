@@ -1,0 +1,4 @@
+1. Do not change the name of the task
+2. Place the "Indices.xlsx" file in the task location
+3. After Run, A folder name with "Janaki_Ramudu" will be created in the Automation Anywhere Files folder in the Documents Folder.
+4. The log files contains the details of the changes. File Will decribes in which line and sheet the changes are found.
